@@ -2,6 +2,8 @@
 
 https://docs.google.com/presentation/d/1f2b5QO7ZVFxPn0dmi9pCni4iEzbVTJOyr80xffvaPqc/edit#slide=id.p
 
+***For this project used Tableau and even some old school Excel pivot tables to help inform the analysis I did using the DS and Viz tools learned in the last section***
+
 #### Notes for presentation (excuse their informal nature)
 
 Y-axis is customers
